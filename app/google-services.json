@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978323715463",
+    "project_id": "powellrecycler",
+    "storage_bucket": "powellrecycler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978323715463:android:cc9b55358d756d82c90f22",
+        "android_client_info": {
+          "package_name": "com.example.powelrecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978323715463-o3c1hl5gmqqhicmsqcmfl8blc8c14hie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLRVMw-FiCLGT_OuX7QeAPdF3WECSaBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978323715463-o3c1hl5gmqqhicmsqcmfl8blc8c14hie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
